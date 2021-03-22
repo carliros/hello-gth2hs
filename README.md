@@ -3,7 +3,7 @@
 ## How to build
 ```
 brew install --cask xquartz
-brew install glib cairo gtk gettext fontconfig freetype
+brew install glib cairo gtk gtk+3 gettext fontconfig freetype
 stack build
 ```
 

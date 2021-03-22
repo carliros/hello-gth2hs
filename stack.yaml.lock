@@ -12,6 +12,13 @@ packages:
   original:
     hackage: gtk-0.15.5
 - completed:
+    hackage: gtk3-0.15.5@sha256:e036fe5df496fbefff9e1bc029358ba198b4b73bb4677d3f58e59ee6ec03766a,19511
+    pantry-tree:
+      size: 21251
+      sha256: 1b7740c0cfc23f0c74bd3bdfc5b5a7fe9699a37e27f0c6ccde0ae7e83d513aa6
+  original:
+    hackage: gtk3-0.15.5
+- completed:
     hackage: cairo-0.13.8.1@sha256:1938aaeb5d3504678d995774dfe870f6b66cbd43d336b692fa8779b23b2b67a9,4075
     pantry-tree:
       size: 2830
